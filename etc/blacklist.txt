@@ -1,0 +1,42 @@
+anal
+anus\w*
+arse
+arsehole\w*
+ass
+asshole\w*
+ballsack\w*
+bitch\w*
+blow ?job\w*
+boner\w*
+boob\w*
+bullshit\w*
+clitoris\w*
+clits?
+cocksucker\w*
+cum
+cunt\w*
+deep ?throat\w*
+dick\w*
+dildo\w*
+douche\w*
+dykes?
+fag(got)?\w*
+fuck\w*
+jizz\w*
+kill yoursel(f|ves)
+mast(e|u)rbat\w*
+moth(a|er)fuck\w*
+nigger\w*
+penis\w*
+piss(ed|es|ing)?
+porn(o\w*)?
+pussy\w*
+rap(e|ed|es|ing|ists?)
+retard(ed|s)?
+scrotum\w*
+semen
+shit\w*
+slut\w*
+trann(ie|y)\w*
+vagina\w*
+whore\w*
