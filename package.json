@@ -1,0 +1,23 @@
+{
+    "name": "literally-1984",
+    "version": "1.0.0",
+    "description": "A simple, minimalist Discord bot designed to keep watch for foul language in the DT Code Club server.  As free software licensed under the GNU AGPL, you can use, modify, or distribute the source code, located at <https://github.com/dt-code-club/literally-1984>.",
+    "keywords": [
+        "discord",
+        "bot",
+        "censorship",
+        "profanity",
+        "filter"
+    ],
+    "homepage": "https://github.com/dt-code-club/literally-1984",
+    "license": "AGPL-3.0-or-later",
+    "author": "climbTheStairs",
+    "main": "./index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dt-code-club/literally-1984.git"
+    },
+    "dependencies": {
+        "discord.js": "^13.2.0"
+    }
+}
