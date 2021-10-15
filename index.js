@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2021 David Thompson Coding Club
+ * Copyright (C) 2021 David Thompson Code Club
  *
  * This file is part of LITERALLY 1984.
  * 
