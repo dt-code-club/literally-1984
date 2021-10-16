@@ -70,5 +70,6 @@ Feedback and suggestions are welcome as well!
 ## License
 
 Copyright (C) 2021 David Thompson Code Club.
+
 LITERALLY 1984 is free software,
 licensed under [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html).
