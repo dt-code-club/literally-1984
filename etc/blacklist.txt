@@ -26,6 +26,7 @@ jizz\w*
 kill yoursel(f|ves)
 mast(e|u)rbat\w*
 moth(a|er)fuck\w*
+niggas?
 nigger\w*
 penis\w*
 piss(ed|es|ing)?
