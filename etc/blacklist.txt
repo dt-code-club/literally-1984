@@ -33,7 +33,7 @@ porn(o\w*)?
 pussy\w*
 rap(e|ed|es|ing|ists?)
 retard(ed|s)?
-scrotum\w*
+scrot(e|um)\w*
 semen
 shit\w*
 slut\w*
