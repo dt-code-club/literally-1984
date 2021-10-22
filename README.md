@@ -64,12 +64,13 @@ Written by [@climbTheStairs](https://github.com/climbTheStairs).
 ## Reporting bugs
 
 Please report any bugs you find in the GitHub issues,
-or notify us by email at <dtcodeclub@gmail.com>.
+or notify the author of this program
+or the DT Code Club by email at <dtcodeclub@gmail.com>.
 Feedback and suggestions are welcome as well!
 
 ## License
 
-Copyright (C) 2021 David Thompson Code Club.
+Copyright (C) 2021 climbTheStairs <yxtqwf@gmail.com>
 
 LITERALLY 1984 is free software,
-licensed under [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html).
+licensed under [GPL-2.0-or-later](https://www.gnu.org/licenses/agpl-2.0.html).
