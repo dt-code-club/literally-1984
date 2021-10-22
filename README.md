@@ -73,4 +73,4 @@ Feedback and suggestions are welcome as well!
 Copyright (C) 2021 climbTheStairs <yxtqwf@gmail.com>
 
 LITERALLY 1984 is free software,
-licensed under [GPL-2.0-or-later](https://www.gnu.org/licenses/agpl-2.0.html).
+licensed under [GPL-2.0-or-later](https://www.gnu.org/licenses/gpl-2.0.html).
