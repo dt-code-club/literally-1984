@@ -6,7 +6,7 @@ ass
 asshole\w*
 ballsack\w*
 bitch\w*
-blow ?job\w*
+blow.?job\w*
 boner\w*
 boob\w*
 bullshit\w*
@@ -15,7 +15,7 @@ clits?
 cocksucker\w*
 cum
 cunt\w*
-deep ?throat\w*
+deep.?throat\w*
 dick\w*
 dildo\w*
 douche\w*
