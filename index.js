@@ -24,7 +24,7 @@ const blacklistLoc = __dirname + "/etc/blacklist.txt"
 const blacklist = fs.readFileSync(blacklistLoc, "utf-8").trim().split("\n")
 const blacklistPat = new RegExp(`\\b(${blacklist.join("|")})\\b`, "i")
 
-// Initialize bot
+// Init bot
 const client = new Client({
     intents: [
         Intents.FLAGS.GUILDS,
