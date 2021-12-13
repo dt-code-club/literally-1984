@@ -18,12 +18,7 @@
 
 const fs = require("fs")
 const { Client, Intents } = require("discord.js")
-const {
-    activity,
-    info,
-    reportsChannelId,
-    status,
-} = require("./etc/config.json")
+const conf = require("./etc/config.json")
 
 const blacklistLoc = __dirname + "/etc/blacklist.txt"
 const blacklist = fs.readFileSync(blacklistLoc, "utf-8").trim().split("\n")
@@ -37,9 +32,9 @@ const client = new Client({
     ]
 })
 client.once("ready", () => {
-    console.log(info.ready)
-    client.user.setActivity(activity)
-    client.user.setStatus(status)
+    console.log(conf.info.ready)
+    client.user.setActivity(conf.activity)
+    client.user.setStatus(conf.status)
 })
 
 // Listen for new messages
@@ -54,9 +49,9 @@ client.on("messageCreate", (msg) => {
 })
 
 const isProfane = (content) => blacklistPat.test(content)
-const warn = (msg) => msg.reply(info.warning)
+const warn = (msg) => msg.reply(conf.info.warning)
 const report = ({ author, channel, content }) => {
-    const reportsChannel = client.channels.cache.get(reportsChannelId)
+    const reportsChannel = client.channels.cache.get(conf.reportsChannelId)
     const profanityReport = (
         `<@${author.id}> wrote in <#${channel.id}>:\n` + content
     )
