@@ -20,7 +20,7 @@ but feel free to host your own instance!
 
 Clone the source code and `cd` into the directory:
 
-    git clone https://github.com/dt-code-club/literally-1984
+    git clone https://github.com/dt-code-club/literally-1984.git
     cd literally-1984
 
 Install the dependencies:
@@ -68,9 +68,15 @@ or notify the author of this program
 or the DT Code Club by email at <dtcodeclub@gmail.com>.
 Feedback and suggestions are welcome as well!
 
-## License
+## Copying
 
-Copyright (C) 2021 climbTheStairs <yxtqwf@gmail.com>
+LITERALLY 1984 is free software
+that has been placed in the public domain.
 
-LITERALLY 1984 is free software,
-licensed under [GPL-2.0-or-later](https://www.gnu.org/licenses/gpl-2.0.html).
+To the extent possible under law,
+climbTheStairs has waived all copyright
+and related or neighboring rights to LITERALLY 1984.
+This software is distributed without any warranty.
+
+[![CC0 license button](https://www.climbthestairs.org/img/buttons/cc0.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
