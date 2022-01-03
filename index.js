@@ -22,7 +22,7 @@ const conf = require("./etc/config.json")
 
 const blacklistLoc = __dirname + "/etc/blacklist.txt"
 const blacklist = fs.readFileSync(blacklistLoc, "utf-8").trim().split("\n")
-const blacklistPat = new RegExp(`\\b(${blacklist.join("|")})\\b`, "i")
+const blacklistPat = new RegExp(blacklist.join("|"), "i")
 
 // Init bot
 const client = new Client({
